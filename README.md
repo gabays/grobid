@@ -4,9 +4,9 @@ Originally designed for dictionaries, we are trying to use GROBID with manuscrip
 
 ## Credits
 
-GROBID dictionaries is developped by Mohamed Khemakhem ([GitHub](https://github.com/MedKhem)).
+GROBID dictionaries is developed by Mohamed Khemakhem ([GitHub](https://github.com/MedKhem)).
 
-More info on GROBID technoligies can be found [here](https://grobid.readthedocs.io).
+More info on GROBID technologies can be found [here](https://grobid.readthedocs.io).
 
 Research on catalogues and training is carried by Simon Gabay.
 
