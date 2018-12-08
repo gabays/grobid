@@ -496,7 +496,7 @@ in in i in in in n in in in 5.64 false false NOCAPS NOPUNCT LINEIN SAMEFONT
 4 4 4 4 4 4 4 4 4 4 5.64 false false ALLCAPS NOPUNCT LINEIN SAMEFONT 
 . . . . . . . . . . 5.64 false false ALLCAPS PUNCT LINEIN SAMEFONT 
 2 2 2 2 2 2 2 2 2 2 5.64 false false ALLCAPS NOPUNCT LINEIN SAMEFONT 
-« « « « « « « « « « 5.64 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+» » » » » » » » » » 5.64 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
 55 55 5 55 55 55 5 55 55 55 5.64 false false ALLCAPS NOPUNCT LINESTART SAMEFONT 
 Kean kean K Ke Kea Kean n an ean Kean 5.64 false false INITCAP NOPUNCT LINEIN SAMEFONT 
 ( ( ( ( ( ( ( ( ( ( 5.64 false false ALLCAPS OPENBRACKET LINEIN SAMEFONT 
@@ -557,7 +557,7 @@ Bertrand bertrand B Be Ber Bert d nd and rand 6.24 false false INITCAP NOPUNCT L
 , , , , , , , , , , 6.24 false false ALLCAPS PUNCT LINEIN SAMEFONT 
 1334 1334 1 13 133 1334 4 34 334 1334 6.24 false false ALLCAPS NOPUNCT LINEIN SAMEFONT 
 , , , , , , , , , , 6.24 false false ALLCAPS PUNCT LINEIN SAMEFONT 
-l l l l l l l l l l 6.24 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+1 1 1 1 1 1 1 1 1 1 6.24 false false ALLCAPS NOPUNCT LINEIN SAMEFONT 
 / / / / / / / / / / 6.24 false false ALLCAPS PUNCT LINEIN SAMEFONT 
 2p 2p 2 2p 2p 2p p 2p 2p 2p 6.24 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
 . . . . . . . . . . 6.24 false false ALLCAPS PUNCT LINEIN SAMEFONT 
@@ -606,7 +606,6 @@ in in i in in in n in in in 5.64 false false NOCAPS NOPUNCT LINEIN SAMEFONT
 3 3 3 3 3 3 3 3 3 3 5.64 false false ALLCAPS NOPUNCT LINEIN SAMEFONT 
 » » » » » » » » » » 5.64 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
 Charmante charmante C Ch Cha Char e te nte ante 3.84 false false INITCAP NOPUNCT LINESTART SAMEFONT 
-. . . . . . . . . . 3.84 false false ALLCAPS PUNCT LINEIN SAMEFONT 
 invitation invitation i in inv invi n on ion tion 3.84 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
 à à à à à à à à à à 3.84 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
 dîner dîner d dî dîn dîne r er ner îner 3.84 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
@@ -892,9 +891,6 @@ les les l le les les s es les les 4.92 false false NOCAPS NOPUNCT LINEIN SAMEFON
 grandes grandes g gr gra gran s es des ndes 4.92 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
 découvertes découvertes d dé déc déco s es tes rtes 4.92 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
 de de d de de de e de de de 4.92 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
-- - - - - - - - - - 4.44 false false ALLCAPS PUNCT LINESTART SAMEFONT 
-15 15 1 15 15 15 5 15 15 15 4.44 false false ALLCAPS NOPUNCT LINEIN SAMEFONT 
-- - - - - - - - - - 4.44 false false ALLCAPS PUNCT LINEEND SAMEFONT 
 Galilée galilée G Ga Gal Gali e ée lée ilée 4.56 false false INITCAP NOPUNCT LINESTART SAMEFONT 
 et et e et et et t et et et 4.56 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
 d d d d d d d d d d 4.56 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
@@ -1778,9 +1774,6 @@ d d d d d d d d d d 5.64 false false NOCAPS NOPUNCT LINEIN SAMEFONT
 une une u un une une e ne une une 5.64 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
 histoire histoire h hi his hist e re ire oire 5.64 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
 de de d de de de e de de de 5.64 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
-- - - - - - - - - - 4.44 false false ALLCAPS PUNCT LINESTART SAMEFONT 
-16 16 1 16 16 16 6 16 16 16 4.44 false false ALLCAPS NOPUNCT LINEIN SAMEFONT 
-- - - - - - - - - - 4.44 false false ALLCAPS PUNCT LINEEND SAMEFONT 
 France france F Fr Fra Fran e ce nce ance 5.64 false false INITCAP NOPUNCT LINESTART SAMEFONT 
 devenue devenue d de dev deve e ue nue enue 5.64 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
 fameuse fameuse f fa fam fame e se use euse 5.64 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
