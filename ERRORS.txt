@@ -1,0 +1,89 @@
+Niveau Parse full
+train_set_1(N025).pdf 
+GROBID remet un <num> dans le <form>, ce qui n'est pas logique. Je soupçonne toujours un problème lié au <pb>
+
+<entry>
+                <num>62 </num>
+                <form>
+                    <num>La</num>
+                    <form type="lemma">
+                        <name>Chapelle (l'abbé de</name>
+                        <pc>),</pc>
+                        <desc>savant et ingénieux mathématicien, auteur du Traité de la Construction du</desc>
+                    </form>
+                    <sense>
+                        <def>Scaphandre, appareil plongeur</def>
+                    </sense>
+                </form>
+                <pc>. -</pc>
+                <sense>
+                    <def>Pièce sig., avec corrections aut., 1773, 1 p. 1/4 in-4. 4 </def>
+                    <pc>» </pc>
+                    <note>Très-curieuse approbation, comme censeur royal, des Eléments des forces centrales par le chevalier de Forbin, ouvrage où les grandes découvertes de 
+                        <pb/>
+                        <fw type="header">-15 -</fw>Galilée 
+                    </note>
+                    <def>et </def>
+                    <note>d'Huyghens </note>
+                    <def>sont </def>
+                    <note>clairement exposées, et où </note>
+                    <def>l'</def>
+                    <note>auteur entre en lutte </note>
+                    <def>avec l'Académie des sciences au sujet de l'immortel </def>
+                    <note>Newton</note>
+                </sense>
+            </entry>
+_____________________________________________________________________________
+Idem dans  train_set_4(N060).pdf 
+
+
+            <entry>
+                <num>30 </num>
+                <form>
+                    <num>Girardin</num>
+                    <form type="lemma">
+                        <name>(Emile de</name>
+                        <pc>),</pc>
+                        <desc>le célèbre publiciste</desc>
+                    </form>
+                </form>
+                <pc>. -</pc>
+                <sense>
+                    <def>L. a. s. à un littérateur; Enghien, jeudi 2 août, 5 heures du matin, 4 p. in-8. 12 </def>
+                    <pc>» </pc>
+                    <note>Belle et remarquable lettre. Après avoir débuté par une espèce de cours d'hygiène, il se livre à des considérations physiologiques sur l'esprit de notre époque. Des femmes, selon lui, s'accoutument trop 
+                        <pb/>
+                        <fw type="header">-7 -</fw>facilement et trop généralement à l'idée qu'elles ont été mises au monde pour souffrir. Ce qui manque aux femmes, c'est un but plus marqué dans la vie. Quant aux hommes, il les juge sévèrement : « Que de peine, dit-il, les hommes se sont donnée et se donnent encore pour mettre en contradiction la société avec la nature ! Ils ont beau ne parvenir qu'à se consumer en stériles efforts, cela ne les découragent pas ! Ils persistent sans s'apercevoir que ce qu'ils qualifient superbement vertu n'est qu'une sorte de folie privilégiée qui échappe à la classification de Charenton et de Bedlam. » Il signe : Un fou matinal qui raisonne
+                    </note>
+                </sense>
+            </entry>
+
+_____________________________________________________________________________
+Idem dans  train_set_5(N070).pdf 
+
+
+<entry>
+                <num>31 </num>
+                <form>
+                    <num>Borghèse</num>
+                    <form type="lemma">
+                        <name>(le prince Camille</name>
+                        <pc>),</pc>
+                        <desc>second mari</desc>
+                    </form>
+                    <sense>
+                        <def>de Pauline Bona¬</def>
+                        <note>parte</note>
+                    </sense>
+                </form>
+                <pc>. -</pc>
+                <sense>
+                    <def>Let. sig. à Gaudin, duc de Gaëte; Turin, 9 oc¬ tobre 1810, 1 p. in-4. 3 </def>
+                    <pc>» </pc>
+                    <note>Curieuse lettre relative à la suppression, dans son gouvernement, des nombreux couvents c[ui s'y trouvaient encore à cette époque; cette mesure a pu s'exécuter à son entière satisfaction. Seulement, il a tou¬ 
+                        <pb/>
+                        <fw type="header">-8 -</fw>jours regardé comme une chose extrêmement inconvenante l'aliéna¬ tion des meubles et ornements d'église, aussi, vient-il d'adresser aux préfets des instructions pour lesquelles il sollicite son approbation
+                    </note>
+                </sense>
+            </entry>
+
