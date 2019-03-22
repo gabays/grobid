@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><name>Laurent (Marie)</name>, <desc>une des actrices les plus distinguées de notre <lb/>époque</desc></form><form><name>Loriquet (le Père J.-Nic.)</name>, <desc>jésuite, célébré par son Histoire de <lb/>France</desc></form><form><name>Louis XV</name>, <desc>roi de France</desc></form><form><name>Mazarin (le cardinal Jules)</name>, <desc>illustre homme d'Etat</desc></form><form><name>Moreau (J.-M.), dit le Jeune</name>,<desc> gracieux vignettiste du XVIIIe siècle</desc></form><form><name>Murger (Henri)</name>, <desc>écrivain original, auteur de la Vie de Bohème</desc></form><form><name>Napoléon Ier</name>, <desc>empereur des Français</desc></form><form><name>Orléans (Ferd.-Ph., duc d')</name>, <desc>fils aîné du roi Louis-Philippe</desc></form><form><desc>Le même.</desc> </form><form><name>Pedrotti (Carlo)</name>, <desc>compositeur italien distingué, auteur de <lb/>Roméa di Monfort</desc></form><form><name>Périga (Mme)</name>, <desc>célèbre actrice contemporaine</desc></form><form><name>Porret (H.)</name>, <desc>habile et fécond graveur de vignettes</desc></form><form><name>Ravel (A.)</name>, <desc>le désopilant acteur comique du Palais-Royal</desc></form><form><name>Ravignan (le Père A. de)</name>, <desc>un des plus grands prédicateurs du <lb/>XIXe siècle</desc></form><form><name>Rouher (Eug.)</name>, <desc>premier ministre de Napoléon III</desc></form><form><name>Saint-Pierre (Bernardin de)</name>, <desc>l'auteur de Paul et Virginie</desc></form></body>
+	</text>
+</tei>
